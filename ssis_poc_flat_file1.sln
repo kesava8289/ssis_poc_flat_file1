@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ssis_poc_flat_file1", "ssis_poc_flat_file1\ssis_poc_flat_file1.dtproj", "{1529D101-C689-4C7D-9009-4FC3FC2CDFF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1529D101-C689-4C7D-9009-4FC3FC2CDFF1}.Development|Default.ActiveCfg = Development
+		{1529D101-C689-4C7D-9009-4FC3FC2CDFF1}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {076792BC-EB2E-4487-A39B-DB0F6091652D}
+	EndGlobalSection
+EndGlobal
